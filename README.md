@@ -14,7 +14,7 @@
 -	pip install streamlit
 3.	If everything is installed, then type the path where the source code file is located in command prompt. (Download the source code folder and save it on local disk D)
 -	Type d: 
--	Type cd Source Code\Finpro\App 
+-	Type cd Finpro\App 
 -	Type streamlit run main.py
 4.	Your browser will open, indicating the application is running
 
