@@ -1,4 +1,4 @@
-# Used-Motorcycle-Price-Prediction
+# Used Motorcycle Price Prediction
 
 # Installation Guide
 
